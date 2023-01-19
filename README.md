@@ -25,7 +25,7 @@ Em seguida, corte/otimize/edite sua imagem como quiser, adicione-a ao seu projet
 ### Links
 
 - URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
+
 
 ## Meu processo
 
@@ -68,7 +68,7 @@ Desejo continuar evoluindo meus conhecimentos em HTML e CSS, até que me sinta t
 
 ### Recursos úteis
 
-- [Site 1](https://www.example.com) - Isso me ajudou pelo motivo XYZ. Eu realmente gostei desse padrão e vou usá-lo daqui para frente.
+- [Site para deploy](https://www.netlify.com) - Isso me ajudou para executar meu projeto. 
 - [Site sobre CSS grid](https://www.example.com) - Este é um artigo incrível que me ajudou a finalmente entender CSS Grid. Recomendo a todos que ainda estão aprendendo esse conceito.
 
 
