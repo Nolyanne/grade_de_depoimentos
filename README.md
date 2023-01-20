@@ -12,7 +12,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./captura de tela.jpg)
+![](./pagina_qr_code.jpg)
 
 
 ### Links
