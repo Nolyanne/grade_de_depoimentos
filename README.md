@@ -12,7 +12,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](.images/grade_de_depoimentos.jpg)
+![](./grade_de_depoimentos.jpg)
 
 
 ### Links
