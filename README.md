@@ -14,18 +14,10 @@ Os usuários devem ser capazes de:
 
 ![](./captura de tela.jpg)
 
-Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito do mouse na página e selecionar "Tirar uma captura de tela". Você pode escolher uma captura de tela de altura total ou cortada com base no tamanho da página. Se for muito longo, talvez seja melhor cortá-lo.
-
-Como alternativa, você pode usar uma ferramenta como [FireShot](https://getfireshot.com/) para tirar a captura de tela. O FireShot tem uma opção gratuita, então você não precisa comprá-lo.
-
-Em seguida, corte/otimize/edite sua imagem como quiser, adicione-a ao seu projeto e atualize o caminho do arquivo na imagem acima.
-
-**Observação: exclua esta observação e os parágrafos acima ao adicionar sua captura de tela. Se preferir não adicionar uma captura de tela, sinta-se à vontade para remover toda esta seção.**
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-
+- URL da solução: [Abrir página do projeto](https://cheerful-parfait-ad9382.netlify.app/)
 
 ## Meu processo
 
@@ -57,9 +49,7 @@ const proudOfThisFunc = () => {
 }
 ```
 
-Se você quiser mais ajuda para escrever remarcações, recomendamos verificar [The Markdown Guide](https://www.markdownguide.org/) para saber mais.
 
-**Observação: exclua esta observação e o conteúdo desta seção e substitua por seus próprios aprendizados.**
 
 ### Desenvolvimento contínuo
 
@@ -69,7 +59,7 @@ Desejo continuar evoluindo meus conhecimentos em HTML e CSS, até que me sinta t
 ### Recursos úteis
 
 - [Site para deploy](https://www.netlify.com) - Isso me ajudou para executar meu projeto. 
-- [Site sobre CSS grid](https://www.example.com) - Este é um artigo incrível que me ajudou a finalmente entender CSS Grid. Recomendo a todos que ainda estão aprendendo esse conceito.
+- [Site sobre CSS grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Este é um site incrível que me ajudou a entender CSS Grid. Recomendo a todos que ainda estão aprendendo esse conceito.
 
 
 ## Autor
