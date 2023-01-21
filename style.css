@@ -2,6 +2,8 @@
 
 .body{
     background-color: hsl(210, 46%, 95%);
+    min-width: 375px;
+    max-width: 1440px;
 }
 .container{
 
@@ -11,14 +13,18 @@
     column-gap: 20px;
     row-gap: 20px;
     align-content: center;
-    font-size: 13px;
+    font-size: 11px;
+    letter-spacing: 1px;
     font-family: 'Barlow Semi Condensed';
+    color: hsl(0, 0%, 100%) ;
     margin-left: 10%;    
     margin-right: 10%;
     margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .dep1{
+
     background-color: hsl(263, 55%, 52%);
     border-radius: 10px;
     grid-column-start: 1;
@@ -35,13 +41,15 @@
 }
 
 .dep3{
-    background-color: hsl(0, 0%, 100%);  
+    background-color: hsl(0, 0%, 100%); 
+    color: hsl(217, 19%, 35%);
     border-radius: 10px;   
     grid-area: 1 / 4 / span 2 / span 4;
 }
 
 .dep4{
     background-color: hsl(0, 0%, 100%); 
+    color: hsl(217, 19%, 35%);
     border-radius: 10px;
 }
 
@@ -50,34 +58,44 @@
     border-radius: 10px;
     grid-area: 2 / 2 / span 1 / span 2;
 }
+.tit{
+    margin-bottom: 5%;
+    margin-top: 2rem;
 
+}
 .images{
+
     margin-left: 5%;
-    margin-top: 5%;
+    margin-right: 5%;
     width: 30px;
     border-radius: 50%;
     border-style: solid;
     border-width: 3px;
     border-color: hsl(0, 0%, 81%);
+    float: left;
+
 
 }
 
 .images1{
+
     margin-left: 5%;
-    margin-top: 5%;
+    margin-right: 5%;
     width: 30px;
     border-radius: 50%;
     border-style: solid;
     border-width: 3px;
     border-color: hsl(263, 55%, 52%);
+    float: left;
 }
 
 
 .name{
     opacity: 50%;
+    margin-left: 5%;
 }
 .nameSubtitle{
-
+    margin-left: 5%;
 }
 
 .paragraph{
@@ -91,4 +109,12 @@
     float: right;
     opacity: 70%;   
     margin-bottom: 5%;
+}
+
+.attribution{
+    opacity: 70%;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Barlow Semi Condensed';
+
 }
