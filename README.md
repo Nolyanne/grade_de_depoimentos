@@ -17,7 +17,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Abrir página do projeto](https://regal-cat-2206bd.netlify.app)
+- URL da solução: [Grade de depoimentos](https://regal-cat-2206bd.netlify.app)
 
 ## Meu processo
 
