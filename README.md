@@ -35,19 +35,40 @@ O que me desafiou a implementar esta página foi a possibilidade de um novo apre
 
 Para ver como você pode adicionar trechos de código, veja abaixo:
 
-```html
-<h1>Algum código HTML do qual me orgulho</h1>
-```
+
 ```css
-.proud-of-this-css {
-  cor: mamão chicote;
+.container{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+    align-content: center;
+    font-size: 13px;
+    font-family: 'Barlow Semi Condensed';
+    margin-left: 10%;    
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.dep1{
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-column: 1/3;
+
+
+}
+
+.dep3{
+    background-color: hsl(0, 0%, 100%);  
+    border-radius: 10px;   
+    grid-area: 1 / 4 / span 2 / span 4;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+
 
 
 
@@ -70,4 +91,4 @@ Desejo continuar evoluindo meus conhecimentos em HTML e CSS, até que me sinta t
 
 ## Agradecimentos
 
-Agradeço ao colega Fabrício Dourado, da comunidade CODE, pelo feedback em meu projeto anterior e por abrir meu horizonte sobre CSS.
+Agradeço ao colega Fabrício Dourado, da comunidade CODE, pelo feedback em meu projeto anterior e por abrir meu horizonte sobre CSS. E também ao Felipe Cunha por me ajudar nos alinhamentos em CSS.
