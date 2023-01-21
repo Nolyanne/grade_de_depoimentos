@@ -17,7 +17,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Abrir página do projeto](https://cheerful-parfait-ad9382.netlify.app/)
+- URL da solução: [Abrir página do projeto](https://regal-cat-2206bd.netlify.app)
 
 ## Meu processo
 
@@ -79,8 +79,8 @@ Desejo continuar evoluindo meus conhecimentos em HTML e CSS, até que me sinta t
 
 ### Recursos úteis
 
-- [Site para deploy](https://www.netlify.com) - Isso me ajudou para executar meu projeto. 
-- [Site sobre CSS grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Este é um site incrível que me ajudou a entender CSS Grid. Recomendo a todos que ainda estão aprendendo esse conceito.
+- [Netlify](https://www.netlify.com) - Isso me ajudou para executar meu projeto. 
+- [CSS-TRICKS](https://css-tricks.com/snippets/css/complete-guide-grid/) - Este é um site incrível que me ajudou a entender CSS Grid. Recomendo a todos que ainda estão aprendendo esse conceito.
 
 
 ## Autor
